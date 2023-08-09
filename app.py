@@ -20,6 +20,18 @@ def calcula_tan(value):
 
 print("Tan-x {}".format(calcula_tan(20)))
 
+# Ejemplo 4
+def calcula_fac(n):
+    return math.factorial(n)
+
+print("El factorial del número {} es: {}".format(
+    4,
+    math.factorial(4)
+    ))
+
+
+
+
 
 
 
