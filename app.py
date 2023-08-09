@@ -14,6 +14,12 @@ def calcula_sin(value):
 print("Sen-x {}".format(calcula_sin(20)))
 
 
+# Ejemplo 3
+def calcula_tan(value):
+    return math.tan(value)
+
+print("Tan-x {}".format(calcula_tan(20)))
+
 
 
 
