@@ -29,7 +29,14 @@ print("El factorial del número {} es: {}".format(
     math.factorial(4)
     ))
 
+# Ejemplo 5
+def calcula_log(n):
+    return math.log(n)
 
+print("El logaritmo del número {} es: {}".format(
+    2,
+    math.log(2)
+    ))
 
 
 
