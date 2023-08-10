@@ -47,6 +47,14 @@ def calcula_atan(y):
 
 print("Atan-x {}".format(calcula_atan(1)))
 
+# Ejemplo 9
+def calcula_asinh(z):
+    return math.asinh(z)
+
+print("AsinH-x {}".format(calcula_asinh(1)))
+
+
+
 
 
 
