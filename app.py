@@ -41,6 +41,11 @@ def calcula_acos(y):
 
 print("Acos-x {}".format(calcula_acos(1)))
 
+# Ejemplo 8
+def calcula_atan(y):
+    return math.atan(y)
+
+print("Atan-x {}".format(calcula_atan(1)))
 
 
 
