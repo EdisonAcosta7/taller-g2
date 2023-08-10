@@ -29,7 +29,11 @@ print("El factorial del número {} es: {}".format(
     math.factorial(4)
     ))
 
+# Ejemplo 6
+def calcula_asin(w):
+    return math.asin(w)
 
+print("Asin-x {}".format(calcula_asin(1)))
 
 
 
