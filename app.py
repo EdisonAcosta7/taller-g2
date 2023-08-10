@@ -54,6 +54,11 @@ def calcula_asinh(z):
 print("AsinH-x {}".format(calcula_asinh(1)))
 
 
+# Ejemplo 10
+def calcula_acosh(z):
+    return math.acosh(z)
+
+print("acosh-x {}".format(calcula_acosh(1)))
 
 
 
