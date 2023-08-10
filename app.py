@@ -35,6 +35,12 @@ def calcula_asin(w):
 
 print("Asin-x {}".format(calcula_asin(1)))
 
+# Ejemplo 7
+def calcula_acos(y):
+    return math.acos(y)
+
+print("Acos-x {}".format(calcula_acos(1)))
+
 
 
 
